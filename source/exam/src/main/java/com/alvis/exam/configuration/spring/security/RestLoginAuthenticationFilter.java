@@ -19,7 +19,7 @@ import java.io.InputStream;
 
 /**
  * 登录参数序列化
- * @author alvis
+ * @author 高xh
  */
 
 public class RestLoginAuthenticationFilter extends AbstractAuthenticationProcessingFilter {

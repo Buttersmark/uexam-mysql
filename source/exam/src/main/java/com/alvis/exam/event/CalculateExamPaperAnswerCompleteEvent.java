@@ -5,7 +5,7 @@ import com.alvis.exam.domain.User;
 import org.springframework.context.ApplicationEvent;
 
 /**
- * @author alvis
+ * @author 高xh
  */
 public class CalculateExamPaperAnswerCompleteEvent extends ApplicationEvent {
 

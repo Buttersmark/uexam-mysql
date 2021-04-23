@@ -1,5 +1,5 @@
 server:
-  port: 8001
+  port: 13333
   undertow:
     io-threads: 16
     worker-threads: 4000
@@ -79,4 +79,4 @@ spring:
 
   #runningtime environment
   profiles:
-    active:  @env@
+    active: @env@

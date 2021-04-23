@@ -33,29 +33,7 @@
     </el-main>
     <el-footer height="340" class="student-footer">
       <div class="container">
-        <div class="footer-main">
-          <h4>友情链接</h4>
-          <a href="https://spring.io/" target="_blank" class="footer-main-link">Spring</a>
-          <a href="https://cn.vuejs.org/" target="_blank" class="footer-main-link">Vue</a>
-          <a href="https://element.eleme.io/" target="_blank" class="footer-main-link">Element</a>
-          <a href="https://www.postgresql.org/" target="_blank" class="footer-main-link">Postgresql</a>
-          <a href="https://redis.io/" target="_blank" class="footer-main-link">Redis</a>
-          <a href="http://undertow.io/" target="_blank" class="footer-main-link">Undertow</a>
-          <a href="http://nginx.org/" target="_blank" class="footer-main-link">Nginx</a>
-        </div>
-        <div class="footer-main">
-          <h4>博客</h4>
-          <a href="#" target="_blank" class="footer-main-link">在线讨论</a>
-          <a href="https://www.google.com/" target="_blank" class="footer-main-link">Google</a>
-          <a href="https://www.oschina.net/" target="_blank" class="footer-main-link">Oschina</a>
-          <a href="https://www.infoq.cn/" target="_blank" class="footer-main-link">Infoq</a>
-          <a href="https://www.iconfont.cn/" target="_blank" class="footer-main-link">Iconfont</a>
-        </div>
-        <div class="footer-social">
-          <p class="footer-social-title">开源社区</p>
-          <a href="https://github.com/alvis-u/exam" target="_blank"> <svg-icon icon-class="social-github" style="width: 32px;height: 32px;" /></a>
-          <a href="https://gitee.com/alvis-yu/exam" target="_blank"><svg-icon icon-class="gitee" style="width: 32px;height: 32px;" /></a>
-        </div>
+
       </div>
     </el-footer>
   </el-container>

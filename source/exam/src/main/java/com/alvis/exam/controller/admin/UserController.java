@@ -25,7 +25,7 @@ import java.util.UUID;
 
 
 /**
- * @author alvis
+ * @author 高xh
  */
 @RestController("AdminUserController")
 @RequestMapping(value = "/api/admin/user")

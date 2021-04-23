@@ -3,7 +3,7 @@ package com.alvis.exam.service;
 import com.alvis.exam.domain.User;
 
 /**
- * @author alvis
+ * @author 高xh
  */
 public interface AuthenticationService {
 

@@ -1,7 +1,7 @@
 package com.alvis.exam.base;
 
 /**
- * @author alvis
+ * @author 高xh
  */
 public enum SystemCode {
     /**

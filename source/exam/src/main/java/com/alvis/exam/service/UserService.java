@@ -8,7 +8,7 @@ import com.github.pagehelper.PageInfo;
 import java.util.List;
 
 /**
- * @author alvis
+ * @author 高xh
  */
 public interface UserService extends BaseService<User> {
 

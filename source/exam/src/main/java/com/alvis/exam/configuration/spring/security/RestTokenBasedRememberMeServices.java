@@ -7,7 +7,7 @@ import javax.servlet.http.HttpServletRequest;
 
 /**
  * 记住我，Cookie
- * @author alvis
+ * @author 高xh
  */
 public class RestTokenBasedRememberMeServices extends TokenBasedRememberMeServices {
     public RestTokenBasedRememberMeServices(String key, UserDetailsService userDetailsService) {

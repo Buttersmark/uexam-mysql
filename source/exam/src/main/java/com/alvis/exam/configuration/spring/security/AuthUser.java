@@ -6,7 +6,7 @@ import org.springframework.security.core.userdetails.User;
 import java.util.Collection;
 
 /**
- * @author alvis
+ * @author 高xh
  */
 public class AuthUser extends User {
 

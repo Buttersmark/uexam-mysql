@@ -1,7 +1,7 @@
 package com.alvis.exam.exception;
 
 /**
- * @author alvis
+ * @author 高xh
  */
 public class BusinessException extends RuntimeException {
 

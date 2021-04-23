@@ -9,7 +9,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.context.SecurityContextHolder;
 
 /**
- * @author alvis
+ * @author 高xh
  */
 public class BaseApiController {
     protected final static String DEFAULT_PAGE_SIZE = "10";

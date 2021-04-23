@@ -2,7 +2,7 @@ package com.alvis.exam.base;
 
 
 /**
- * @author alvis
+ * @author 高xh
  */
 public abstract class BaseEntity {
 

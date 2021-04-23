@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 
 
 /**
- * @author alvis
+ * @author 高xh
  */
 @Component
 public class EmailSendListener implements ApplicationListener<OnRegistrationCompleteEvent> {

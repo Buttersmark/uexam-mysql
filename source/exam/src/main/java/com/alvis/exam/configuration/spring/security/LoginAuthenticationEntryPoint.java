@@ -12,7 +12,7 @@ import java.io.IOException;
 
 /**
  * 未登录
- * @author alvis
+ * @author 高xh
  */
 @Component
 public final class LoginAuthenticationEntryPoint extends LoginUrlAuthenticationEntryPoint {

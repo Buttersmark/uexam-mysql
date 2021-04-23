@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
 /**
- * @author alvis
+ * @author 高xh
  */
 public class RestUtil {
     private static final Logger logger = LoggerFactory.getLogger(RestUtil.class);

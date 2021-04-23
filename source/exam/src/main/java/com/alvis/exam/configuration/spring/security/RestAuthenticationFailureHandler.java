@@ -12,7 +12,7 @@ import java.io.IOException;
 
 /**
  * 账号验证异常
- * @author alvis
+ * @author 高xh
  */
 @Component
 public class RestAuthenticationFailureHandler extends SimpleUrlAuthenticationFailureHandler {

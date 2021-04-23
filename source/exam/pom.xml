@@ -9,7 +9,7 @@
     <packaging>jar</packaging>
 
     <name>exam</name>
-    <description>学之思考试平台</description>
+    <description>青学培训考试平台</description>
 
 
     <properties>
@@ -149,7 +149,13 @@
             <scope>provided</scope>
             <optional>true</optional>
         </dependency>
-
+        <!--swagger-->
+        <!--<dependency>-->
+        <!--    <groupId>com.github.xiaoymin</groupId>-->
+        <!--    <artifactId>knife4j-spring-boot-starter</artifactId>-->
+        <!--    &lt;!&ndash;在引用时请在maven中央仓库搜索3.X最新版本号&ndash;&gt;-->
+        <!--    <version>3.0.2</version>-->
+        <!--</dependency>-->
     </dependencies>
 
 

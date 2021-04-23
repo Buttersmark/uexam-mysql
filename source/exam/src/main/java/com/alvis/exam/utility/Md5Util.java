@@ -11,7 +11,7 @@ import java.security.NoSuchAlgorithmException;
 
 
 /**
- * @author alvis
+ * @author 高xh
  */
 public class Md5Util {
 

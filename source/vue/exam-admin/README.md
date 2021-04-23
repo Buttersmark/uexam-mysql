@@ -62,7 +62,7 @@ server {
         root   html;
     }
     location /api/ {
-       proxy_pass  http://localhost:8001;
+       proxy_pass  http://localhost:13333;
     }
 }
 ```
@@ -73,7 +73,7 @@ server {
 server {
     listen 86;
     listen 8086 ssl;
-    server_name  www.alvisu.com;
+    server_name  localhost;
     root         /usr/local/exam/link/exam-admin;
     index        index.html;
     error_page   500 502 503 504  /50x.html;
@@ -86,7 +86,7 @@ server {
         root   html;
     }
     location /api/ {
-       proxy_pass  https://www.alvisu.com:8001;
+       proxy_pass  https://localhost:13333;
     }
 }
 ```
